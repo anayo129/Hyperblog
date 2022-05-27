@@ -9,5 +9,6 @@ Un blog increíble para mostrar [ cosas interesantes](https://www.google.com/url
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
+* creado por el increible hombre invisible
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**y no te quedes con esta cara**](https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.facebook.com%2Fphoto%2F%3Ffbid%3D758598657554600%26set%3Decnf.100063815675819&psig=AOvVaw0i4W7gait4F0xVl8PUjZ9b&ust=1653742559555000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCJDul6fd__cCFQAAAAAdAAAAABAD).
